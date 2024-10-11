@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0.1 Safari/605.1.15" version="24.7.17" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17" pages="4">
   <diagram name="Use case" id="nJa6VGLifC_yfJzNMKLj">
     <mxGraphModel dx="1466" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,7 +121,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SZnNSf8DO3T3-BseLAbe" name="Class diagram">
-    <mxGraphModel dx="2052" dy="2553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -375,12 +375,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mAA4zPFW1-vcRWgtWsSl" name="Question 3">
-    <mxGraphModel dx="408" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2100" dy="2283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JSDZXkR8sG4mx7Tf61tk-1" value="&lt;i&gt;&lt;b&gt;Q3: Votre diagramme est t-il SOLID ? Argumentez.&lt;/b&gt;&lt;/i&gt;&lt;div&gt;Notre diagramme respecte les principes SOLID. S =&amp;gt; Chaque classe n&#39;a qu&#39;une seule responsabilité&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="520" width="560" height="40" as="geometry" />
+        <mxCell id="JSDZXkR8sG4mx7Tf61tk-1" value="&lt;div style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 26px; background-color: initial;&quot;&gt;&lt;b&gt;Q3: Votre diagramme est t-il SOLID ? Argumentez.&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 26px;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;Notre diagramme respecte les principes SOLID.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 26px;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;S =&amp;gt;&lt;/b&gt; Chaque classe n&#39;a qu&#39;une seule responsabilité, User gere tous les utilisateurs,&amp;nbsp;&lt;code style=&quot;background-color: initial;&quot;&gt;AuthenticatedUser&lt;/code&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; se concentre spécifiquement sur les&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 26px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;utilisateurs authentifiés.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 26px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;O =&amp;gt;&lt;/b&gt; Chaque classe est ouvert a l&#39;extension et fermé a la modification. Par exemple dans la classe Alignement on peut facilement introduire&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 26px;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;un principe morale il en est de même pour&amp;nbsp; les&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Classes &lt;/span&gt;&lt;code style=&quot;background-color: initial;&quot;&gt;Sort&lt;/code&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, &lt;/span&gt;&lt;code style=&quot;background-color: initial;&quot;&gt;Classe&lt;/code&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, &lt;/span&gt;&lt;code style=&quot;background-color: initial;&quot;&gt;Maitrise.&lt;/code&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 26px;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;L =&amp;gt;&lt;/b&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Le &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LSP&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; stipule que les objets d&#39;une classe dérivée doivent pouvoir remplacer les objets de la classe de base sans affecter le fonctionnement du programme.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 26px;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;Par exemple ici :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Classes &lt;code&gt;User&lt;/code&gt;, &lt;code&gt;AuthenticatedUser&lt;/code&gt;, &lt;code&gt;DungeonMaster&lt;/code&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; :&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 26px;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Puisque &lt;/span&gt;&lt;code style=&quot;background-color: initial;&quot;&gt;AuthenticatedUser&lt;/code&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; et &lt;/span&gt;&lt;code style=&quot;background-color: initial;&quot;&gt;DungeonMaster&lt;/code&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; héritent ou sont des sous-types de &lt;/span&gt;&lt;code style=&quot;background-color: initial;&quot;&gt;User&lt;/code&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;elles devraient pouvoir être utilisées partout où un &lt;/span&gt;&lt;code style=&quot;background-color: initial;&quot;&gt;User&lt;/code&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; est attendu.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 26px;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Le diagramme semble indiquer que les sous-classes respectent le contrat de &lt;/span&gt;&lt;code style=&quot;background-color: initial;&quot;&gt;User&lt;/code&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; en ayant leurs propres attributs et méthodes spécifiques, mais sans briser le comportement attendu.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 26px;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;I =&amp;gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="176" y="-110" width="2130" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -405,7 +405,7 @@
         <mxCell id="ZX9qkNcV0ubJyoi-JIrV-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="EXpBXWE3CZY7DN6O9Aj0-2" vertex="1">
           <mxGeometry x="45" y="50" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Wni8r-jdT4HiWCYCBkDZ-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="EXpBXWE3CZY7DN6O9Aj0-2" vertex="1">
+        <mxCell id="Wni8r-jdT4HiWCYCBkDZ-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="EXpBXWE3CZY7DN6O9Aj0-2">
           <mxGeometry x="45" y="120" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EXpBXWE3CZY7DN6O9Aj0-3" value="Fiche : fichePersonnage" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
@@ -414,7 +414,7 @@
         <mxCell id="ZX9qkNcV0ubJyoi-JIrV-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="EXpBXWE3CZY7DN6O9Aj0-3" vertex="1">
           <mxGeometry x="45" y="220" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OP8NJDxcBrFgmubk2Dgg-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="EXpBXWE3CZY7DN6O9Aj0-3" vertex="1">
+        <mxCell id="OP8NJDxcBrFgmubk2Dgg-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="EXpBXWE3CZY7DN6O9Aj0-3">
           <mxGeometry x="45" y="120" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZX9qkNcV0ubJyoi-JIrV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="1" source="ZX9qkNcV0ubJyoi-JIrV-1" target="EXpBXWE3CZY7DN6O9Aj0-2" edge="1">
@@ -443,10 +443,10 @@
             <mxPoint x="-10" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wni8r-jdT4HiWCYCBkDZ-2" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;savePersonnage()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="Wni8r-jdT4HiWCYCBkDZ-2" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;savePersonnage()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="150" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Wni8r-jdT4HiWCYCBkDZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="1" edge="1">
+        <mxCell id="Wni8r-jdT4HiWCYCBkDZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="287.5" y="180" />
